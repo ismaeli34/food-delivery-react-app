@@ -1,7 +1,5 @@
 # Food Delivery React App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/854c2463-8aed-4ec0-b5c3-b1c8d28173c2" />
 
 
